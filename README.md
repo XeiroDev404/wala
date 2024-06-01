@@ -1,6 +1,6 @@
 # BotPack🤖<sub><sub>v1.7.6🚀</sub></sub>
 <p align="center">
-	<a href="https://nodejs.org/dist/v16.20.0">
+	<a hps://nodejs.org/dist/v16.20.0">
 		<img src="https://img.shields.io/badge/Nodejs%20Support-18.x-brightgreen.svg?style=flat-square" alt="Nodejs Support v18.x">
 	</a>
   <img alt="Size" src="https://img.shields.io/github/repo-size/YANDEVA/BotPack.svg?style=flat-square&label=size">
